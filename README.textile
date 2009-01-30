@@ -1,4 +1,4 @@
-h2.My .vim Directory
+h2. My .vim Directory
 
    * vimrc - My ~/.vimrc file
    * gvimrc - My ~/.gvimrc file
