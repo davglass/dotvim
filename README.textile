@@ -1,0 +1,6 @@
+h2.My .vim Directory
+
+   * vimrc - My ~/.vimrc file
+   * gvimrc - My ~/.gvimrc file
+   * colors - Customized version of the ron colors scheme
+   * syntax - Customized JavaScript systax highlighting scheme (Includes YUI syntax highlighting)
