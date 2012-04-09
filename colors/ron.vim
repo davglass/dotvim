@@ -84,3 +84,9 @@ hi javaScriptNull gui=bold guifg=white
 hi javaScriptYUI guifg=purple
 hi javaScriptYUIPrivate guifg=white guibg=purple
 hi DollarSign   guifg=orange gui=bold
+
+hi dustBraces   guifg=orange gui=bold
+hi dustVar   guifg=orange gui=bold
+
+hi htmlItalic gui=italic
+hi htmlBold gui=bold
